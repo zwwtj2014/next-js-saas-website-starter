@@ -4,8 +4,8 @@ import { ThemeProvider } from "next-themes";
 import "styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Next JS SaaS Starter Template",
-  description: "Next JS SaaS Starter Template",
+  title: "Test vercle",
+  description: "这是麦兜的测试工程",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
